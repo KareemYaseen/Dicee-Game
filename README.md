@@ -2,6 +2,8 @@
 
 A simple dice game built with JavaScript. Each refresh rolls two dice, and the player with the higher number wins 🏆  
 
+This project is a practice exercise from **The Complete 2025 Web Development Bootcamp by Angela Yu** on Udemy.  
+
 ---
 
 ## 🚀 Features
