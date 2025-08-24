@@ -12,7 +12,7 @@ A simple dice game built with JavaScript. Each refresh rolls two dice, and the p
 
 ---
 
-## 📸 Screenshot
+## 📸 Demo Gif
 ![Dicee Demo](./images/Dicee.gif)
 
 ---
