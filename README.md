@@ -27,4 +27,4 @@ A simple dice game built with JavaScript. Each refresh rolls two dice, and the p
 ## 📂 How to Run
 1. Clone this repo:  
    ```bash
-   git clone https://github.com/YOUR_USERNAME/dicee-game.git
+   git clone https://github.com/KareemYaseen/dicee-game.git
